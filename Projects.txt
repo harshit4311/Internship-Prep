@@ -72,10 +72,11 @@ Showcases expertise in machine learning and deep learning.
 Demonstrates ability to work on complex, research-oriented projects.
 Highlights collaboration with academic institutions and application of advanced algorithms.
 Overall Assessment
-Collectively, these projects cover a broad spectrum of essential skills and demonstrate your ability to:
 
-Work across the full stack of web development.
-Optimize and manage both backend and frontend systems.
-Handle large datasets and derive meaningful insights.
-Implement machine learning models and engage in high-level research.
+Collectively, these projects cover a broad spectrum of essential skills and demonstrate your ability to:
+- Work across the full stack of web development.
+- Optimize and manage both backend and frontend systems.
+- Handle large datasets and derive meaningful insights.
+- Implement machine learning models and engage in high-level research.
+
 These projects are indeed sufficient to make your application stand out for SWE internships at big tech companies. Ensure you can discuss each project in detail, highlighting your specific contributions, challenges faced, and the solutions you implemented. Additionally, having a portfolio or GitHub repository showcasing these projects can significantly strengthen your application.
