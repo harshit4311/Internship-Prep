@@ -1,20 +1,20 @@
 1. Web Server with 100k+ Concurrent Requests
-Skills:
+- Skills:
 Shell Scripting: Automating tasks, managing server environments.
 Memory Management: Optimizing server performance, handling large-scale data.
 Processes and Threads: Understanding concurrency, parallelism.
 Concurrent Programming: Developing scalable, efficient applications.
 Computer Network: TCP/IP, protocols, network security.
 Socket Programming: Building networked applications.
-Value:
 
+- Value:
 Demonstrates ability to handle high-performance, scalable systems.
 Showcases knowledge in backend development and systems programming.
 Highlights your understanding of low-level network communication and resource management.
 
 
 2. Online Excel Sheet with 1M+ Rows
-Skills:
+- Skills:
 HTML/CSS: Frontend development.
 How Internet Works: Understanding of protocols, web servers, and browsers.
 Browser Architecture: Performance optimization, rendering engines.
@@ -23,15 +23,15 @@ DOM Manipulation: Efficiently handling large data in the browser.
 Lazy Load: Performance optimization for large datasets.
 Website Optimization Techniques: Improving load times and user experience.
 React: Modern frontend framework for building dynamic UIs.
-Value:
 
+- Value:
 Demonstrates frontend development skills and proficiency in JavaScript frameworks.
 Shows ability to handle and optimize large datasets on the client side.
 Highlights your understanding of web performance and user experience optimization.
 
 
 3. Event Management System/E-Commerce Website
-Skills:
+- Skills:
 Databases: SQL and NoSQL database management.
 Schema Design: Structuring databases for efficient data retrieval.
 MVC Frameworks: Understanding of software design patterns.
@@ -39,35 +39,35 @@ Spring Boot: Experience with Java-based backend frameworks.
 Cloud: Deploying and managing applications in cloud environments.
 CDNs: Content delivery optimization.
 Payment Gateway Integration: Implementing secure and efficient payment systems.
-Value:
 
+- Value:
 Provides full-stack development experience.
 Shows capability in designing, implementing, and scaling web applications.
 Demonstrates practical knowledge of integrating third-party services and cloud technologies.
 
 
 4. Data Science: Analyze Data to Derive Business Decisions
-Skills:
+- Skills:
 SQL: Database querying and management.
 NumPy, Pandas, Matplotlib, Seaborn: Data manipulation and visualization.
 Web Scraping: Gathering data from the web.
 Probability and Statistics: Data analysis and inference.
 Case Studies: Practical application of data science techniques.
-Value:
 
+- Value:
 Highlights your ability to derive actionable insights from data.
 Demonstrates skills in data analysis, a crucial aspect of many tech roles.
 Shows experience with data visualization and interpretation.
 
 
 5. Dog Image Classification using EfficientNet and ConvNeXt
-Skills:
+- Skills:
 Machine Learning: Model building and training.
 Deep Learning Frameworks: Using libraries like TensorFlow or PyTorch.
 Computer Vision: Image classification techniques.
 Capstone Project: Experience with real-world research projects.
-Value:
 
+- Value:
 Showcases expertise in machine learning and deep learning.
 Demonstrates ability to work on complex, research-oriented projects.
 Highlights collaboration with academic institutions and application of advanced algorithms.
